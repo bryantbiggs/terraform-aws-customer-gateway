@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.1.2](https://github.com/terraform-aws-modules/terraform-aws-customer-gateway/compare/v3.1.1...v3.1.2) (2026-08-26)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#26](https://github.com/terraform-aws-modules/terraform-aws-customer-gateway/issues/26)) ([8691d84](https://github.com/terraform-aws-modules/terraform-aws-customer-gateway/commit/8691d8473fd1beb2662c894fcc9b1d5d480678b6))
+
 ## [3.1.1](https://github.com/terraform-aws-modules/terraform-aws-customer-gateway/compare/v3.1.0...v3.1.1) (2025-10-21)
 
 ### Bug Fixes
